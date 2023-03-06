@@ -16,22 +16,22 @@ main {
 }
 
 .imagem1 img {
-    max-width: 200px;
-    max-height: 200px;
+    max-width: 20px;
+    max-height: 20px;
     width: auto;
     height: auto;
 }
 
 .imagem2 img {
-    max-width: 200px;
-    max-height: 200px;
+    max-width: 20px;
+    max-height: 20px;
     width: auto;
     height: auto;
 }
 
 .imagem3 img {
-    max-width: 200px;
-    max-height: 200px;
+    max-width: 20px;
+    max-height: 20px;
     width: auto;
     height: auto;
 }
